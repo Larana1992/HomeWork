@@ -26,6 +26,8 @@ namespace Homework
             mainPage.navigateMenu.VerifyLogout();
             Log.Step(6);
             loginPage = mainPage.navigateMenu.ClickLogout();
+            Log.Step(7);
+            loginPage.VerifyLoginButton();
         }
     }
 }

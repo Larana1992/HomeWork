@@ -25,15 +25,9 @@ namespace Homework.Framework.Core
 
             if (browserName == "chrome")
             {
-                return new ChromeDriver(Path.GetFullPath(DriverPath));
-            }
-            if (browserName == "iexplore")
-            {
-                return new InternetExplorerDriver(Path.GetFullPath(DriverPath));
-            }
-            if (browserName == "firefox")
-            {
-                return new FirefoxDriver();
+                ChromeOptions options = new ChromeOptions();
+                options.AddArgument("--start-maximized");
+                return new ChromeDriver(Path.GetFullPath(DriverPath), options);
             }
             return new ChromeDriver(Path.GetFullPath(DriverPath));
         }

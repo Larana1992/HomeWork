@@ -17,3 +17,21 @@ c:\users\викуся\documents\visual studio 2015\Projects\Homework1\Homework1\
 c:\users\викуся\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\nunit.util.dll
 c:\users\викуся\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
 c:\users\викуся\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+D:\Users\Homework1\Homework1\bin\Debug\Homework1.dll.config
+D:\Users\Homework1\Homework1\bin\Debug\Homework1.dll
+D:\Users\Homework1\Homework1\bin\Debug\Homework1.pdb
+D:\Users\Homework1\Homework1\bin\Debug\log4net.dll
+D:\Users\Homework1\Homework1\bin\Debug\nunit.core.dll
+D:\Users\Homework1\Homework1\bin\Debug\nunit.core.interfaces.dll
+D:\Users\Homework1\Homework1\bin\Debug\nunit.framework.dll
+D:\Users\Homework1\Homework1\bin\Debug\nunit.util.dll
+D:\Users\Homework1\Homework1\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\Users\Homework1\Homework1\bin\Debug\TechTalk.SpecFlow.dll
+D:\Users\Homework1\Homework1\bin\Debug\WebDriver.dll
+D:\Users\Homework1\Homework1\bin\Debug\WebDriver.Support.dll
+D:\Users\Homework1\Homework1\bin\Debug\log4net.xml
+D:\Users\Homework1\Homework1\bin\Debug\nunit.framework.xml
+D:\Users\Homework1\Homework1\bin\Debug\WebDriver.xml
+D:\Users\Homework1\Homework1\bin\Debug\WebDriver.Support.xml
+D:\Users\Homework1\Homework1\obj\Debug\Homework1.dll
+D:\Users\Homework1\Homework1\obj\Debug\Homework1.pdb
