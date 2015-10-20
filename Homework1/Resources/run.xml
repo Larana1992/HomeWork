@@ -1,0 +1,8 @@
+﻿<xml>
+  <!-- possible values: chrome ; iexplore;-->
+  <browser>chrome</browser>
+  
+  <!-- user account settings -->
+  <username>Larana9999@mail.ru</username>
+  <password>Chameleon9999</password>
+</xml>
