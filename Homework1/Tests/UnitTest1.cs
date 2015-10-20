@@ -18,9 +18,13 @@ namespace Homework
             loginPage.VerifyLoginButton();
             Log.Step(2);
             mainPage = loginPage.Login(username, password);
+            Log.Step(3);
             mainPage.MainPageIsDisplayed();
+            Log.Step(4);
             mainPage.navigateMenu.clickNavigation();
+            Log.Step(5);
             mainPage.navigateMenu.VerifyLogout();
+            Log.Step(6);
             loginPage = mainPage.navigateMenu.ClickLogout();
         }
     }
