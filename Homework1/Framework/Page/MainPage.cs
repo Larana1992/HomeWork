@@ -14,7 +14,7 @@ namespace Homework1.Framework.Page
     {
         public NavigateMenu navigateMenu = new NavigateMenu();
 
-        private static readonly By btnStatus = By.XPath("//h2[@class = 'uiHeaderTitle' and contains(.,'Добро пожаловать на Facebook,')]");
+        private static readonly By btnStatus = By.XPath("//h2[@class = 'uiHeaderTitle' and contains(.,'Facebook,')]");
 
         public MainPage() : base(btnStatus, "Facebook main page") { }
 
