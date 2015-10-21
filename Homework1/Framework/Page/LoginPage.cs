@@ -14,7 +14,7 @@ namespace Homework1.Framework.Page
         private static readonly By lkMain =
             By.XPath("//a[@title='Перейти на главную страницу Facebook']");
         private readonly TextBox tbLogin = new TextBox(By.XPath("//form[@id='login_form']//input[@id='email']"), "textbox login");
-        private readonly TextBox tbPassword = new TextBox(By.XPath("//form[@id='login_form']//input[@id='pass']"), "textbox login");
+        private readonly TextBox tbPassword = new TextBox(By.XPath("//form[@id='login_form']//input[@id='pass']"), "textbox password");
         private readonly Button btnLogin = new Button(By.XPath("//form[@id='login_form']//*[@id='loginbutton']/input"), "login button");
 
         public LoginPage() : base(lkMain, "Facebook login page") { }

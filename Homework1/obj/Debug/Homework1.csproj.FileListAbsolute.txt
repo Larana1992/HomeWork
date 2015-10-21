@@ -33,5 +33,6 @@ D:\Users\Homework1\Homework1\bin\Debug\log4net.xml
 D:\Users\Homework1\Homework1\bin\Debug\nunit.framework.xml
 D:\Users\Homework1\Homework1\bin\Debug\WebDriver.xml
 D:\Users\Homework1\Homework1\bin\Debug\WebDriver.Support.xml
+D:\Users\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
 D:\Users\Homework1\Homework1\obj\Debug\Homework1.dll
 D:\Users\Homework1\Homework1\obj\Debug\Homework1.pdb
